@@ -1,0 +1,13 @@
+Experiment Topics, CF score, Sum(upbotes + downvotes)
+
+counts
+worldnews 8976
+science 9248
+movies 9425
+Showerthoughts 9492
+
+
+worldnews, mean= -0.115, median= -0.11, correlation= 0.007
+science, mean= -0.097,median= -0.094, correlation= 0.025
+movies, mean= -0.133, median= -0.128, correlation= 0.0125
+Showerthoughts, mean= -0.128, median= -0.122, correlation= -0.008

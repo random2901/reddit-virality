@@ -1,0 +1,11 @@
+#virality metric1 (up + down + #comments)  CF-score
+counts
+elaboration= 18910
+agreement= 4964
+disagreement= 3373
+appreciation= 8556
+
+elaboration: mean= -0.1, median= -0.09, correlation= 0.0095, r2= -5.26
+agreement: mean= -0.122, median= -0.116, correlation= 0.011, r2= -4.48
+disagreement: mean= -0.102, median= -0.098, correlation= -0.006, r2= -5.7 
+appreciation: mean= -0.152, median= -0.156, correlation= 0.02, r2= -5.49

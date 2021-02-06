@@ -1,0 +1,10 @@
+counts
+worldnews 8976
+science 9248
+movies 9425
+Showerthoughts 9492
+
+worldnews, mean= 53.5, median= 52.97, correlation= 0.014
+science, mean= 53.2,median= 52.94, correlation= 0.016
+movies, mean= 54.36, median= 52.77, correlation= 0.02
+Showerthoughts, mean= 52.84, median= 50.0, correlation= -0.017

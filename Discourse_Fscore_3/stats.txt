@@ -1,0 +1,11 @@
+#virality metric 3(subs) F-score
+counts
+elaboration 14354
+agreement 3571
+disagreement 2439
+appreciation 6459
+
+elaboration: mean= 51.69, median= 50.66, correlation= 0.003, r2= -0.019
+agreement: mean= 49.11, median= 50.0, correlation= 0.04, r2=  -0.004
+disagreement: mean= 50.31, median= 50.0, correlation= 0.01, r2= -0.0008
+appreciation: mean= 54.11, median= 50.74, correlation= -0.018, r2= -0.06
